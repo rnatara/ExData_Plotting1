@@ -17,7 +17,6 @@
 #-----------------------------------------------------------------------------
 # nram, Apr 12, 2015
 
-setwd("c:/Users/rnatarajan/workspace/Courcera/DataScience/ExploratoryDataAnalysis/Project")
 
 #read partial data into memory
 data<-read.csv("household_power_consumption.txt", 
