@@ -1,9 +1,11 @@
 # plot3.R
 #-----------------------------------------------------------------------------
-# Draw frequency of Gloabl Active Power for 2 days (2007-02-01 to 2007-02-02) 
-# Raw Data: Electric Power Consumption Data 
+# Draw multi graphs from Electric power consumption data
+# from Electric Power Consumption Data 
+# Project 1 of Exploratory Data Analysis (Data Sciences Course)
+# Raw Data:
 # https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
-# Project sumbission for Exploratory Data Analysis Data Sciences Course
+#
 # *** Note ***
 #skip and nrows in read.csv obtained by grep/wc and adjusting for header row
 #echo "skip: "
